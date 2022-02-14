@@ -51,4 +51,22 @@ b{
 	font-weight: 400;
 	font-style: italic;
 	font-size: 1em;
+	margin-top:  2px;
+}
+
+ul li { 
+	font-size:  1em;
+}
+
+.menu {
+	margin: 0;
+	padding:  0;
+	text-align:  center;
+}
+
+.menu li {
+	display:  inline;
+
+}
+
 
