@@ -2,3 +2,35 @@
 	margin:  0 auto;
 	width: 900px;
 }
+#byline  {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+h1{
+	font-family: Helvetica, sans-serif;
+
+}
+
+p{
+	font-family: Georgia, serif;
+	font-size: 13px;
+	line-height:  18px;
+}
+
+blockquote {
+	font-size: 2em;
+	color:  white;
+	background-color:  black;
+	padding:  5px;
+}
+
+figcaption {
+	font-size:  12px;
+	font-style: italic;
+}
+
+h3{ 
+text-align: center;
+ }
