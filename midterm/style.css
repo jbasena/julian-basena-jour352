@@ -3,6 +3,16 @@
 	width: 900px;
 }
 
+#byline  {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+h1{
+	font-family: Helvetica, sans-serif;
+
+}
 
 p{
 	font-family: 'Helvetica', Arial, sans-serif;
@@ -17,4 +27,11 @@ text-align: center;
  figcaption {
 	font-size:  11px;
 	font-style: italic;
+}
+
+blockquote {
+	font-size: 2em;
+	color:  white;
+	background-color:  black;
+	padding:  5px;
 }
