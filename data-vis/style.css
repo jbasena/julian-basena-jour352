@@ -1,0 +1,21 @@
+#content {
+	margin:  0 auto;
+	width: 900px;
+}
+
+p{font-family: 'Playfair Display', serif;
+  font-size: 15px;
+  line-height: 20px
+}
+
+h3{font-family: 'Playfair Display', serif;
+	font-style: italic;
+	font-style: bold;
+}
+
+blockquote {font-family: 'Playfair Display', serif;
+	font-size:  2em;
+	font-style: bold;
+	font-style: italic;
+	text-align: center;
+}
